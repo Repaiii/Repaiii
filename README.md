@@ -8,11 +8,11 @@ I also do freelance voice-over, data entry, and Indonesian translation.
 
 ## 📊 My GitHub Statistics:
 
-![Rafy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafyhidayat&show_icons=true&theme=tokyonight)
+![Rafy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Repaiii&show_icons=true&theme=tokyonight)
 
 ## 🔧 My Programming Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafyhidayat&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Repaiii&layout=compact&theme=tokyonight)
 
 ---
 
